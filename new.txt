@@ -1,0 +1,3 @@
+hello git!
+TRJ
+try to use git on mac!
